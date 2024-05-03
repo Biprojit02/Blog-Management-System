@@ -39,8 +39,8 @@ router.get("/admin", async (req, res) => {
 });
 
 /**
- * POST /
- * Admin - Check Login
+  POST /
+  Admin - Check Login
  */
 router.post("/admin", async (req, res) => {
   try {
